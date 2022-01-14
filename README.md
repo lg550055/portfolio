@@ -13,14 +13,14 @@ Author: Polo Gonzalez
 ### Time estimate
 
 - Number and name of feature: 1. Clone template and deploy
-- Estimate of time needed to complete: 30 min
-- Start time: 7pm  Finish time: 8pm
-- Actual time needed to complete: 60 min
+  - Estimate of time needed to complete: 30 min
+  - Start time: 7pm  Finish time: 8pm
+  - Actual time needed to complete: 60 min
 
 - Number and name of feature: 2. About me page
-- Estimate of time needed to complete: 120 min
-- Start time: 8pm  Finish time: 10pm
-- Actual time needed to complete: 120 min
+  - Estimate of time needed to complete: 120 min
+  - Start time: 8pm  Finish time: 10pm
+  - Actual time needed to complete: 120 min
 
 ---
 
