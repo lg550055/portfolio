@@ -62,8 +62,8 @@ class Header extends Component {
               offColor="#baaa80"
               onColor="#353535"
               className="react-switch mx-auto"
-              width={90}
-              height={40}
+              width={70}
+              height={30}
               uncheckedIcon={
                 <span
                   className="iconify"
@@ -72,7 +72,7 @@ class Header extends Component {
                   style={{
                     display: "block",
                     height: "100%",
-                    fontSize: 25,
+                    fontSize: 20,
                     textAlign: "end",
                     marginLeft: "20px",
                     color: "#353239",
@@ -87,7 +87,7 @@ class Header extends Component {
                   style={{
                     display: "block",
                     height: "100%",
-                    fontSize: 25,
+                    fontSize: 20,
                     textAlign: "end",
                     marginLeft: "10px",
                     color: "#353239",
@@ -109,7 +109,6 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
             </div>
           </div>
         </div>

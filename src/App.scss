@@ -60,7 +60,8 @@ header .nav {
 @keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
 
 .language-icon {
-	font-size: 50px;
+	margin-top: 10px;
+	font-size: 35px;
 	cursor: pointer;
 }
 
@@ -415,6 +416,7 @@ header h1 {
 
 footer {
 	background: #1F1F1F;
+	padding-top: 15px;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;

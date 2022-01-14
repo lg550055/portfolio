@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I'm Polo Gonzalez. At heart, I have always been an engineer :)  I enjoy working challenging Python projects.  This portfolio is a sample of my recent projects. If you like this portfolio, please visit my github repositories to learn more. Thank you!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "GoodHacker",
+        "title": "Software Engineer",
+        "years": "01.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript 8/9/10"
         ],
         "technologies": [
           "REST API",
@@ -94,17 +94,17 @@
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
-          ".NET Core",
+          "django",
           "SignalR",
           "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "G-Rock Climbing",
+        "title": "Founder",
+        "years": "01.2017 - 06.2021",
         "mainTech": [
-          "Angular 7/8"
+          "HTML, CSS"
         ],
         "technologies": [
           "RxJS",
